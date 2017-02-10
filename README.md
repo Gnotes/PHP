@@ -10,7 +10,7 @@ PHP（“PHP: Hypertext Preprocessor”，超文本预处理器的字母缩写�
 
 ## PHP能做什么
 
-- 服务端脚本
+- 服务端脚本 : 网站和 web 应用程序
 - 命令行脚本
 - 编写桌面应用程序
 
@@ -27,5 +27,7 @@ PHP（“PHP: Hypertext Preprocessor”，超文本预处理器的字母缩写�
 
 ## 参考文献
 
-[`w3school PHP教程`](http://www.w3school.com.cn/php/) 
-[`PHP中文手册`](http://php.net/manual/zh/) 
+- [`w3school PHP教程`](http://www.w3school.com.cn/php/) 
+- [`PHP中文手册`](http://php.net/manual/zh/) 
+- [`awesome php`](https://github.com/ziadoz/awesome-php) `资源收集`
+- [`PHP The Right Way`](https://github.com/codeguy/php-the-right-way/) `各种译本`
