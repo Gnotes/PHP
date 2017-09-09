@@ -251,13 +251,22 @@ httpd not running, trying to start
 
 Mac 中系统级的 Web 根目录：`/Library/WebServer/Documents`  
 
-
-
 ## Note
 
 关于换行
 
-> 尽管换行在 HTML 中的实际意义不是很大，但适当地使用换行可以使 HTML 代码易读且美观。PHP 会在输出时自动 **删除** 其结束符 `?>`后的一个换行。该功能主要是针对在一个页面中嵌入多段 PHP 代码或者包含了无实质性输出的 PHP 文件而设计，与此同时也造成了一些疑惑。如果需要在 PHP 结束符 `?>` 之后输出换行的话，可以在其后加一个**空格**，或者在最后的一个 `echo/print` 语句中加入一个换行 **<br/>**
+```
+尽管换行在 HTML 中的实际意义不是很大，但适当地使用换行可以使 HTML 代码易读且美观。PHP 会在输出时自动 **删除** 其结束符 `?>`后的一个换行。该功能主要是针对在一个页面中嵌入多段 PHP 代码或者包含了无实质性输出的 PHP 文件而设计，与此同时也造成了一些疑惑。如果需要在 PHP 结束符 `?>` 
+之后输出换行的话，可以在其后加一个**空格**，或者在最后的一个 `echo/print` 语句中加入一个换行 **<br/>**
+```
+
+## 目录
+
+- [变量](./doc/变量.md)
+- [注释](./doc/注释.md)
+- [打印语句](./doc/打印语句.md)
+- [数据类型](./doc/数据类型.md)
+- [常用函数](./doc/常用函数.md)
 
 ## 参考文献
 
@@ -265,6 +274,11 @@ Mac 中系统级的 Web 根目录：`/Library/WebServer/Documents`
 - [`PHP中文手册`](http://php.net/manual/zh/) 
 - [`awesome php`](https://github.com/ziadoz/awesome-php) `资源收集`
 - [`PHP The Right Way`](https://github.com/codeguy/php-the-right-way/) `各种译本`
+- [php入门教程之一周学会PHP](http://www.php.cn/course/74.html)
+
+## 在线编辑
+
+- [coderunner](http://tool.lu/coderunner)
 
 ## 参考网站
 
