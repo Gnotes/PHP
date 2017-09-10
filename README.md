@@ -267,6 +267,9 @@ Mac 中系统级的 Web 根目录：`/Library/WebServer/Documents`
 - [打印语句](./doc/打印语句.md)
 - [数据类型](./doc/数据类型.md)
 - [常用函数](./doc/常用函数.md)
+- [流程控制](./doc/流程控制.md)
+- [函数](./doc/函数.md)
+- [数组](./doc/数组.md)
 
 ## 参考文献
 
